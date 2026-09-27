@@ -1,5 +1,3 @@
-# Dr. S. Narendran — Academic Portfolio
+# Dr. S. Narendran — Academic & Research Portfolio
 
-Static portfolio website ready for Vercel.
-
-Upload the **contents** of this folder to the root of the GitHub repository so that `index.html` and `assets/` are directly in the repository root.
+V5 updates the Connect section with a compact academic-profile layout inspired by the reference portfolio: email plus LinkedIn, Google Scholar, ORCID, ResearchGate and Scopus. Phone numbers have been removed.
