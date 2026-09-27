@@ -1,11 +1,5 @@
 # Dr. S. Narendran — Academic Portfolio
 
-Vercel-ready static academic portfolio.
+Static portfolio website ready for Vercel.
 
-## Deploy
-
-Upload the contents of this folder to your GitHub repository and connect the repository to Vercel.
-
-## Image
-
-The profile photo is stored at `assets/narendran-photo.png` and is referenced by `index.html`.
+Upload the **contents** of this folder to the root of the GitHub repository so that `index.html` and `assets/` are directly in the repository root.
